@@ -1,0 +1,7 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+churn_model.pkl
