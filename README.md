@@ -1,9 +1,9 @@
 
 # Customer Churn Prediction
 
-## Live Demo : https://customer-churn-prediction-jnuthw7mpxefsybkqbxapr.streamlit.app/
+# Live Demo : https://customer-churn-prediction-jnuthw7mpxefsybkqbxapr.streamlit.app/
 
-## github Repository : https://github.com/udhayakumar268/customer-churn-prediction
+# github Repository : https://github.com/udhayakumar268/customer-churn-prediction
 
 ## Project Overview
 
