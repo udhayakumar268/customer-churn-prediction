@@ -1,6 +1,9 @@
 
 # Customer Churn Prediction
 
+#Live Demo : https://customer-churn-prediction-jnuthw7mpxefsybkqbxapr.streamlit.app/
+#github Repository : https://github.com/udhayakumar268/customer-churn-prediction
+
 ## Project Overview
 
 This project uses machine learning to predict whether a telecom customer is likely to leave a service.
